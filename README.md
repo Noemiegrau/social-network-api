@@ -9,10 +9,7 @@
 * [Link URL of deployed app to Heroku](#link-URL-of-deployed-app-to-Heroku)
 
 ## **_Description of the project_**
-This project is a back-end application using Model-View-Controller (MVC) paradigm and is deployed on Heroku. It is a social network back-end API where ??????
-
-
-users can post information about their dream pizza, their favorite toppings, comment and answer to each other. Users can create, read, update and delete data about their pizza in the database.
+This project is a NoSQL, social network back-end API which will be implemented in a website where users will be able to share their thoughts, react to friends’ thoughts, and create a friend list.
 
 ## **_Technologies used_**
 Project is created using:
