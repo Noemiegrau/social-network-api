@@ -24,20 +24,17 @@ router
   .delete(deleteThought);
 
 // Set up POST, and DELETE at /api/thoughts/:thoughtId/reactions
-router
-  .route('/:thoughtId/reactions')
-  .get(addReaction)
-  .post(removeReaction);
-
-
-//   router
-//     .route('/:thoughtId/reactions')
-//     .post(addReaction)
-
 // router
-//     .route('/:thoughtId/:reactionId')
-//     .delete(removeReaction)
+//   .route('/:thoughtId/reactions')
+//   .post(addReaction)
+//   .delete(removeReaction);
 
+  router
+    .route('/:thoughtId/reactions')
+    .post(addReaction)
 
+router
+    .route('/:thoughtId/:reactionId')
+    .delete(removeReaction)
 
 module.exports = router;
