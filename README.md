@@ -20,6 +20,17 @@ Project is created using:
 
 ## **_Usage_**
 
+**USERS**
+https://user-images.githubusercontent.com/78329298/122336219-539a6680-cef1-11eb-8793-7b8386d50591.mov
+
+**THOUGHTS**
+https://user-images.githubusercontent.com/78329298/122336368-965c3e80-cef1-11eb-86c6-88632936a4b0.mov
+
+**REACTIONS**
+https://user-images.githubusercontent.com/78329298/122336522-d9b6ad00-cef1-11eb-83d5-216e36a23c37.mov
+
+**FRIENDS**
+https://user-images.githubusercontent.com/78329298/122336618-fc48c600-cef1-11eb-9269-fcd51c73f3f5.mov
 
 ## **_Installation_**
 Here are some guidelines for installing the project on your local machine in order to be able to try it: 
