@@ -35,5 +35,3 @@ Here are some guidelines for installing the project on your local machine in ord
 
 ## **_Link URL to GitHub Repository_**
 https://github.com/Noemiegrau/social-network-api
-
-## **_Link URL of deployed app to Heroku_**
