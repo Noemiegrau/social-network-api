@@ -18,10 +18,6 @@ Project is created using:
 * Expressjs
 * MongoDB
 * Mongoose
-* Handlebarsjs
-* Heroku
-* dotenv
-* MongoDB Atlas
 
 ## **_Usage_**
 
